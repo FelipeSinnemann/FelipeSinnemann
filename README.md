@@ -10,7 +10,7 @@
 <div style="display: inline-block">
   <a href="https://devdocs.io/javascript/"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="https://nodejs.org/pt-br/docs/"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-  <a href="hhttps://angular.io/docs/"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>
+  <a href="https://angular.io/docs/"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>
   <a href="https://reactjs.org/docs/getting-started.html"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 </div>
   
