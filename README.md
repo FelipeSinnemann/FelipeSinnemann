@@ -3,8 +3,8 @@
 <h1>🖐Olá, eu sou Felipe 😄</h1>
 
 <div>
-  <a href="https://github.com/FelipeLobinn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeLobinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/FelipeSinnemann">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSinnemann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <br/>
 <div style="display: inline-block">
