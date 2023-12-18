@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1>🖐Olá, eu sou Felipe 😄</h1>
+<h1>Hi there. I'm Felipe</h1>
 
 <div>
   <a href="https://github.com/FelipeSinnemann">
