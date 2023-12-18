@@ -2,7 +2,7 @@
   
 <h1>Hi there. I'm Felipe</h1>
 
-<div>
+<div style="width: 50vw">
   <a href="https://github.com/FelipeSinnemann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSinnemann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
