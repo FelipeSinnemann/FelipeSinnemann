@@ -2,10 +2,12 @@
   
 <h1>Hi there. I'm Felipe</h1>
 
-<div style="width: 50vw">
-  <a href="https://github.com/FelipeSinnemann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSinnemann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://github.com/FelipeSinnemann">
+  <div style="display: inline-block">
+    <img src="https://github-readme-stats.vercel.app/api?username=FelipeSinnemann&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+    
+  </div>
+</a>
 <br/>
 <div style="display: inline-block">
   <a href="https://devdocs.io/javascript/"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
