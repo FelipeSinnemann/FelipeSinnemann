@@ -24,7 +24,4 @@
   
 <hr>
 <br/>
-
-<img height="155em" border src="./gifs/pusheencode.gif" />
-
 </div>
