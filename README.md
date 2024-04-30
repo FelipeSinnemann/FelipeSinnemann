@@ -11,7 +11,7 @@
 <br/>
 <div style="display: inline-block">
   <a href="https://devdocs.io/javascript/"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-  <a href="https://nodejs.org/pt-br/docs/"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://php.net"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
   <a href="https://angular.io/docs/"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>
   <a href="https://reactjs.org/docs/getting-started.html"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 </div>
@@ -21,5 +21,10 @@
   <a href="https://www.linkedin.com/in/felipe-sinnemann/"><img height="35em"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="https://twitter.com/felipeSinn_dev"><img height="35em"src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" /></a>
 </div
+  
 <hr>
+<br/>
+
+<img height="155em" border src="./gifs/pusheencode.gif" />
+
 </div>
