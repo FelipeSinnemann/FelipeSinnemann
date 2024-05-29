@@ -1,10 +1,12 @@
 <div align="center">
   
 <h1>Hi there. I'm Felipe</h1>
-<pre>
+<p>
   I'm a Software Developer. Working as Full Stack since 2022.
+</p>
+<p>
   Always looking for new experiences and new challenges.
-</pre>
+</p>
 <h2>Technologies:</h2>
 <div style="display: inline-block">
   <a href="https://devdocs.io/javascript/"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
