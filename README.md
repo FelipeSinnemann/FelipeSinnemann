@@ -11,7 +11,6 @@
 <div style="display: inline-block">
   <a href="https://devdocs.io/javascript/"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="https://angular.io/docs/"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>
-  <a href="https://reactjs.org/docs/getting-started.html"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
   <a href="https://php.net"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
   <a href="https://laravel.com/docs/11.x"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /></a>
 </div>
