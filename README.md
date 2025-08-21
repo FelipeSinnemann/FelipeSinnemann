@@ -14,13 +14,7 @@
     <a href="https://php.net"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
     <a href="https://laravel.com/docs/11.x"><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /></a>
   </div>
-
-  <br/>
   
-  <picture>
-    <img src="https://github-readme-stats-iv6a1pikb-felipesinnemanns-projects.vercel.app/api/top-langs/?username=FelipeSinnemann&layout=compact&theme=dark" />
-  </picture>
-    
   <br/>
   <h2>Contacts:</h2>
   <div>
