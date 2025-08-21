@@ -18,7 +18,7 @@
   <br/>
   
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSinnemann&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats-iv6a1pikb-felipesinnemanns-projects.vercel.app/api/top-langs/?username=FelipeSinnemann&layout=compact&theme=dark" />
   </picture>
     
   <br/>
